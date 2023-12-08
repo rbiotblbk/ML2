@@ -1,0 +1,51 @@
+root - INFO - 2023-12-08 09:27:58,351 - The system started
+root - INFO - 2023-12-08 09:28:02,388 - The system started
+root - INFO - 2023-12-08 09:28:33,845 - The system started
+root - INFO - 2023-12-08 09:28:33,868 - Main function is entered
+root - INFO - 2023-12-08 09:30:16,707 - The system started
+root - INFO - 2023-12-08 09:30:16,707 - Main function is entered
+root - DEBUG - 2023-12-08 09:30:16,708 - Add function is called
+root - DEBUG - 2023-12-08 09:30:16,708 - Entries: x: 3 - y:4
+root - DEBUG - 2023-12-08 09:30:16,708 - The total is: 7
+root - INFO - 2023-12-08 09:30:50,949 - The system started
+root - INFO - 2023-12-08 09:30:50,950 - Main function is entered
+root - DEBUG - 2023-12-08 09:30:50,950 - Add function is called
+root - DEBUG - 2023-12-08 09:30:50,951 - Entries: x: 3 - y:4
+root - DEBUG - 2023-12-08 09:30:50,951 - The total is: 7
+root - INFO - 2023-12-08 09:31:30,619 - The system started
+root - INFO - 2023-12-08 09:31:30,619 - Main function is entered
+root - INFO - 2023-12-08 09:31:30,864 - The system started
+root - INFO - 2023-12-08 09:31:30,865 - Main function is entered
+root - INFO - 2023-12-08 09:31:31,139 - The system started
+root - INFO - 2023-12-08 09:31:31,139 - Main function is entered
+root - INFO - 2023-12-08 09:31:31,402 - The system started
+root - INFO - 2023-12-08 09:31:31,402 - Main function is entered
+root - INFO - 2023-12-08 09:31:31,654 - The system started
+root - INFO - 2023-12-08 09:31:31,655 - Main function is entered
+root - INFO - 2023-12-08 09:31:31,867 - The system started
+root - INFO - 2023-12-08 09:31:31,867 - Main function is entered
+root - INFO - 2023-12-08 09:31:32,062 - The system started
+root - INFO - 2023-12-08 09:31:32,062 - Main function is entered
+root - INFO - 2023-12-08 09:31:43,504 - The system started
+root - INFO - 2023-12-08 09:31:43,504 - Main function is entered
+root - DEBUG - 2023-12-08 09:31:43,505 - Add function is called
+root - DEBUG - 2023-12-08 09:31:43,505 - Entries: x: 3 - y:4
+root - DEBUG - 2023-12-08 09:31:43,505 - The total is: 7
+root - DEBUG - 2023-12-08 09:59:17,268 - This is my message
+root - INFO - 2023-12-08 09:59:17,268 - This is my message
+root - WARNING - 2023-12-08 09:59:17,269 - This is my message
+root - ERROR - 2023-12-08 09:59:17,269 - This is my message
+root - CRITICAL - 2023-12-08 09:59:17,269 - This is my message
+root - ERROR - 2023-12-08 09:59:17,269 - This is my message
+NoneType: None
+root - ERROR - 2023-12-08 09:59:45,099 - This is my message
+root - CRITICAL - 2023-12-08 09:59:45,099 - This is my message
+root - ERROR - 2023-12-08 09:59:45,099 - This is my message
+NoneType: None
+root - DEBUG - 2023-12-08 10:00:02,146 - This is my message
+root - INFO - 2023-12-08 10:00:02,147 - This is my message
+root - WARNING - 2023-12-08 10:00:02,147 - This is my message
+root - ERROR - 2023-12-08 10:00:02,147 - This is my message
+root - CRITICAL - 2023-12-08 10:00:02,147 - This is my message
+root - ERROR - 2023-12-08 10:00:02,147 - This is my message
+NoneType: None
