@@ -15,10 +15,16 @@ COUNTRY_CODE = "de"
 URL = f"https://api.openweathermap.org/data/2.5/weather?lat={LAT}&lon={LON}&appid={API_KEY}&units=metric&lang={LANG}"
 URL = f"https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME},{COUNTRY_CODE}&appid={API_KEY}&units=metric&lang={LANG}"
 
+# Proxy Setting
+proxies = {
+    "http": "http://proxywbs:3128",
+    "https": "http://proxywbs:3128"
+}
 
 
 # Get the Data Response
-respose = requests.get(URL)
+# respose = requests.get(URL)
+respose = requests.get(URL, proxies= proxies)
 data = respose.json()
 
 pprint(data) 
