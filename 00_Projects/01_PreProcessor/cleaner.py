@@ -24,6 +24,8 @@ class CleanerCSV():
     def process_me(self):
         self.drop_na()
 
+    def make_profile(self):
+        print
 
     def drop_na(self):
         pass 
